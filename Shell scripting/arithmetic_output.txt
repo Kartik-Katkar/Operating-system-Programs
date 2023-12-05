@@ -1,0 +1,4 @@
+Addition: 8
+Subtraction: 6
+Multiplication: 12
+Division: 5
